@@ -43,7 +43,7 @@ function Game() {
   return (
     <Wrapper>
       <Title>게임</Title>
-      <Button onClick={handleClick}>Home</Button>
+      <Button onClick={handleClick}>Login</Button>
     </Wrapper>
   );
 }
