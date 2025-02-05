@@ -38,7 +38,7 @@ const Wrapper = styled.div`
 function Game() {
   const navigate = useNavigate();
   const handleClick = () => {
-    navigate("/");
+    navigate("/login");
   };
   return (
     <Wrapper>
